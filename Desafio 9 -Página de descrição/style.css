@@ -1,0 +1,134 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: #0E0B16;
+    
+}
+
+#menu{
+    background-color: #282a36;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center; 
+}
+
+#menu a {
+    color:white;
+    font-size: 23px; 
+    line-height: 28px;
+    text-decoration: none;
+    margin: 30px;
+    
+}
+
+#menu a:hover{
+    color: #6805F2;
+    transition: 300ms;
+}
+
+#launchbase{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 40%;
+    border-radius: 8px;
+}
+
+#launchbase:hover{
+    background-color: rgba(0, 0, 0, 100);
+    opacity: 75%;
+    transition: 300ms;
+}
+
+body h1{
+    color: whitesmoke;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+    font: 200;
+    font-size: 40px;
+}
+
+body h1:hover{
+    color: #FFF249;
+    transition: 500ms;
+}
+body p{
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+body p:hover{
+    opacity: 80%;
+    transition: 500ms;
+}
+
+#lista{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: whitesmoke;
+    font-size: 20px;
+    justify-content: space-between;
+    
+}
+
+body h2{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 8px;
+}
+body h2:hover{
+    color: #FFDF00;
+    transition: 500ms;
+}
+
+body ul:hover{
+    opacity: 50%;
+    transition: 500ms;
+}
+.insta{
+    width: 6%;
+    height: 6%;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.instagram{
+    text-align: center;
+    padding-top:39px;
+    font-size: 25px;
+}
+
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+body .instagram a:hover{
+    color: #6805F2;
+    transition: 500ms;
+}
+
+
+
